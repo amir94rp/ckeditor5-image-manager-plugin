@@ -1,7 +1,8 @@
 
 # CKEditor 5 Image Manager plugin
 
-This package is a simple plugin for CKEditor 5. Plugin adds a "Insert Image" button to editor's toolbar and by clicking this button, the "open__image_manager__e" will be fired.
+This package is a simple plugin for CKEditor 5. Plugin adds an "Insert Image" button to editor's toolbar and by
+ clicking this button, the "open__image_manager__e" event will be fired.
 
 
 ## Installation

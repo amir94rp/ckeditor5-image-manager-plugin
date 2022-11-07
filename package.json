@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "@amir94rp/ckeditor5-file-manager",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "CKEditor 5 Image Manager Plugin",
   "keywords": [
     "Image Manager",
