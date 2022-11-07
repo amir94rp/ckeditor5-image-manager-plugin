@@ -1,0 +1,30 @@
+{
+  "private": false,
+  "name": "@amir94rp/ckeditor5-file-manager",
+  "version": "3.0.1",
+  "description": "CKEditor 5 Image Manager Plugin",
+  "keywords": [
+    "Image Manager",
+    "File Manager",
+    "CKEditor 5",
+    "EKEditor 5 Plugin"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@ckeditor/ckeditor5-core": "^31.1.0",
+    "@ckeditor/ckeditor5-engine": "^31.1.0",
+    "@ckeditor/ckeditor5-utils": "^31.1.0"
+  },
+  "devDependencies": {
+    "@ckeditor/ckeditor5-ui": "^31.1.0"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=5.7.1"
+  },
+  "author": "amir ramezanpour <rp.amir94@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "src"
+  ]
+}
